@@ -9,3 +9,5 @@ delle sue gesta. IL suo nome era Oscar Meno, ma nel pericolo egli si
 trasformava in…
 
 [Episodio Zero](supermeno0.html) ([pdf](pdf/Supermeno0.pdf))
+
+[Episodio 1](supermeno1.html) ([pdf](pdf/Supermeno1.pdf))
