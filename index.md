@@ -1,4 +1,4 @@
-# paolino & bisso
+# La **biblioteca virtuale** di Paolino & Bisso
 
 [Home](/biblio) | [Chi Siamo](chisiamo) | [Biblioteca](biblioteca) | [Contatti](contatti) | [Link](link)
 
@@ -9,6 +9,3 @@ La **biblioteca virtuale** di Paolino & Bisso
 #### Personaggi
 
 [Supermeno](contenuti/supermeno/)
-
-
-
