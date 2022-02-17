@@ -1,11 +1,11 @@
 # La **biblioteca virtuale** di Paolino & Bisso
 
-[Home](/biblio) | [Chi Siamo](/chisiamo) | [Biblioteca](/biblioteca) | [Contatti](/contatti) | [Link](/link)
+[Home](/biblio) | [Chi Siamo](/biblio/chisiamo) | [Biblioteca](/biblio/biblioteca) | [Contatti](/biblio/contatti) | [Link](/biblio/link)
 
-[Personaggi](personaggi.md)  
-[Commedie](commedie.md)  
-[Racconti](racconti.md)  
-[Medioevo](personaggi.md)  
-[Gialli](personaggi.md)  
-[Horror](personaggi.md)  
+[I Personaggi](personaggi.md)  
+[Le Commedie](commedie.md)  
+[I Racconti](racconti.md)  
+[Il Medioevo](medioevo.md)  
+[I Gialli](gialli.md)  
+[Billy Bon](billybon.md)  
 [Varie](varie.md)  

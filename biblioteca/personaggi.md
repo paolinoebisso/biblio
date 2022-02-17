@@ -1,6 +1,6 @@
 # La **biblioteca virtuale** di Paolino & Bisso
 
-[Home](/biblio) | [Chi Siamo](/chisiamo) | [Biblioteca](/biblioteca) | [Contatti](/contatti) | [Link](/link)
+[Home](/biblio) | [Chi Siamo](/biblio/chisiamo) | [Biblioteca](/biblio/biblioteca) | [Contatti](/biblio/contatti) | [Link](/biblio/link)
 
 SUPERMENO  
 PIRLETTI  
@@ -8,7 +8,6 @@ CAPITAN AMERICAN
 PIGNOLI  
 MENTALI  
 BARTOLETTI  
-BILLY BON  
 RIGHELLO  
 ZOATOS  
 MARCO JET  
